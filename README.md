@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Joanito! 👋</h1>
-<h3 align="center">I am currently pursuing a Master's Program in Artificial Intelligence at Gadjah Mada University. I love programming and math!</h3>
+<h3 align="center">I am currently pursuing a Master's Degree in Artificial Intelligence at Gadjah Mada University. I love programming and math!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanitolopo&label=Profile%20views&color=0e75b6&style=flat" alt="joanitolopo" /> </p>
 
