@@ -1,15 +1,13 @@
-<h1 align="center">Hi, I'm Joanito! 👋</h1>
-<h3 align="center">I am currently pursuing a Master's Degree in Artificial Intelligence at Gadjah Mada University. I love programming and math!</h3>
+<h1 align="center">Hi, I'm Joanito</h1>
+<h3 align="center">I am currently pursuing a Master's Degree in Artificial Intelligence at Gadjah Mada University. I love how AI works✌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanitolopo&label=Profile%20views&color=0e75b6&style=flat" alt="joanitolopo" /> </p>
 
-- 🌱 I’m currently learning: **C++, R**
+- 🌱 My current focus is on Natural Language Processing, specifically exploiting Transfer Learning techniques for Low Resource Settings
 
 - 📫 Reach me here: **amalopo99@gmail.com**
 
 - 📄 Know about my experiences here: [https://tinyurl.com/JoanitoALResume](https://drive.google.com/file/d/1_yiXtt-BaXMZMlWWojOZB-akGAlHHwTR/view?usp=sharing)
-
-- ⚡ Fun fact about me: **I'd like to become an AI researcher!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
