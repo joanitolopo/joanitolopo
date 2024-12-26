@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Joanito</h1>
-<h3 align="center">I am currently pursuing a Master's Degree in Artificial Intelligence at Gadjah Mada University. I love how AI works✌</h3>
+<h3 align="center">I am currently pursuing a Master's Degree in Artificial Intelligence at Universitas Gadjah Mada✌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanitolopo&label=Profile%20views&color=0e75b6&style=flat" alt="joanitolopo" /> </p>
 
-- 🌱 My current focus is on Natural Language Processing, specifically exploiting Transfer Learning techniques for Low Resource Settings
+- 🌱 My current focus is on Multilingual and Low Resource NLP
 
 - 📫 Reach me here: **amalopo99@gmail.com**
 
