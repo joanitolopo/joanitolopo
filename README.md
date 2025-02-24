@@ -7,7 +7,7 @@
 
 - 📫 Reach me here: **amalopo99@gmail.com**
 
-- 📄 Know about my experiences here: [https://tinyurl.com/JoanitoALResume](https://drive.google.com/file/d/1_yiXtt-BaXMZMlWWojOZB-akGAlHHwTR/view?usp=sharing)
+- 📄 Know about my experiences here: [https://joanitolopo.github.io/](https://joanitolopo.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
