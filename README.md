@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanitolopo&label=Profile%20views&color=0e75b6&style=flat" alt="joanitolopo" /> </p>
 
-- 🌱 My current focus is on Multilingual and Low Resource NLP
+- 🌱 My current focus is on Multilingualism and Cross-Lingual NLP
 
 - 📫 Reach me here: **amalopo99@gmail.com**
 
